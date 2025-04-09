@@ -10,4 +10,7 @@ package proyectopruebagit;
  */
 public class Ventana {
     
+    //aqui se procederá a crear toda la GUI a mano, sin uso de las herramientas drag and drop
+    
+    
 }
